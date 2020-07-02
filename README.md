@@ -18,6 +18,10 @@ developed by he1ios (ME)
 
 4. Spelunky (Graphics Design) @he1ios.github.io/insanelunky also)
 
+5. Subnautica below 0 (Bug exploit)
+
+6. Among trees (One of the devs for game)
+
 For problems:
 
   go to he1ios.github.io/insanelunky and click download then download dxwebsetup.exe from the releases and run it
