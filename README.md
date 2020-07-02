@@ -1,5 +1,11 @@
 # MYGAMES
 
+WHY just WHY...
+
+I have worked in these games so I have a developer distribution licence so you guys get the beta they get testers we all are happy
+(YAY)
+
+
 games so far...
 
 developed by he1ios (ME)
@@ -9,6 +15,8 @@ developed by he1ios (ME)
 2. Terraria (Patnership with relogic)
 
 3. Insanelunky (ONLY ME @ he1ios.github.io/insanelunky)
+
+4. Spelunky (Graphics Design) @he1ios.github.io/insanelunky also)
 
 For problems:
 
