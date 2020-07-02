@@ -19,3 +19,5 @@ For problems:
   OR run the .exe file and see it's by microsoft
   
   FOR mac use wineskin to run .exe in the releases page
+  
+  IF they all don't work message me at artemisfowl178@gmail.com
