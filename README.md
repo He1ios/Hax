@@ -32,4 +32,6 @@ For problems:
   
   FOR mac use wineskin at https://github.com/He1ios/MYGAMES/releases to run .exe in the releases page
   
+  Tutorial: https://www.youtube.com/watch?v=6VSGvNfb-OQ
+  
   IF they all don't work message me at artemisfowl178@gmail.com
