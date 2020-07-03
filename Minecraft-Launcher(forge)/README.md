@@ -10,6 +10,7 @@ you can connect your minecraft id or just play without and still be able to conn
 
 Also you can run this launcher on a usb
 
-For all OS's choose linux
-
 This is in the folders
+
+
+MAC and linux are the same but for windows go with all OS's
