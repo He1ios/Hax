@@ -1,5 +1,8 @@
 # MYGAMES
 
+# IMPORTANT
+download this because my cracks require this: https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe
+
 WHY just WHY...
 
 I have worked in these games so I have a developer distribution licence so you guys get the beta they get testers we all are happy
@@ -8,7 +11,7 @@ I have worked in these games so I have a developer distribution licence so you g
 
 games so far...
 
-developed by he1ios (ME)
+developed by cool5tar (ME)
 
 1. Stranded deep ( partnership with the beamteam)
 
