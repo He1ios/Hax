@@ -18,6 +18,15 @@ download assets from mega
 6. directXpatch - https://mega.nz/file/bE8xgKBI#GzD29dH90Dd4oKRauqjaI2nrCktXrHjWRbAf4hccpDQ
 7. frameworks - https://mega.nz/file/vItDxaSY#dUPw76s8v9lEXjvUizdDRj6Q08u3Uoi6rmMO6lEE4IE
 
+
+# BEFORE ANYHING:
+1. download restoreX.sh https://mega.nz/file/fJd3XIIS#rWQhN5DGGMKUq_bELaFnvCPhPFZu8V3mGZVXms4utN4
+2. run it 
+
+# what will this do?
+it will allow you to restore to that point using windows restore point tool (by microsoft)
+# run it by going to this pc, then right click on an empty space then select properties, then advanced system settings then system protection and restore to that point
+
 steps:
 0. run all assets from 2-7
 1. download all the assets
